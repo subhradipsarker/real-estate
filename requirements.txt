@@ -4,7 +4,7 @@ Django==2.2.1
 isort==4.3.21
 lazy-object-proxy==0.0.0
 mccabe==0.6.1
-Pillow==6.0.0
+Pillow==8.2.0
 psycopg2==2.8.2
 psycopg2-binary==2.8.2
 pycodestyle==2.5.0
